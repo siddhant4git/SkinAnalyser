@@ -1,6 +1,7 @@
-# det
+# Skin Analyser
 
-How the App Works: A Video Guide
+How the App Works: A Video Guide:
+
 https://github.com/user-attachments/assets/d7410a1f-1302-4302-b0d6-2cf82c5034f9
 
 
