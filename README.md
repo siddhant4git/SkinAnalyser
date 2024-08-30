@@ -1,5 +1,9 @@
 # det
 
+How the App Works: A Video Guide
+https://github.com/user-attachments/assets/d7410a1f-1302-4302-b0d6-2cf82c5034f9
+
+
 
 Description
 The Flutter Skin Analyzer App is an innovative mobile application designed to detect and analyze facial skin conditions such as pimples, wrinkles, and other common skin problems. Utilizing advanced facial recognition and image processing technologies, this app provides users with personalized medical solutions and skincare recommendations.
